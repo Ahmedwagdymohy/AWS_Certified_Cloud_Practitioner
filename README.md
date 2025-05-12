@@ -1,10 +1,7 @@
-# AWS_Certified_Cloud_Practitioner
-
-
 
 # AWS Certified Cloud Practitioner - Questions and Answers
 
-This document collects a series of AWS Certified Cloud Practitioner–style questions, the available choices, and the correct answers.
+This document collects a series of AWS Certified Cloud practitioner That I saw in the exam
 
 1. **Continuous monitoring of AWS accounts and workloads**
 
